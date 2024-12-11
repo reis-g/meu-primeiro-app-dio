@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="hello_greeting">Bem vindo ao meu primeiro app</string>
 </resources>
